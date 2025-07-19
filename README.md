@@ -30,5 +30,6 @@ print(df_scaled.head())
 
 # Load
 df_scaled.to_csv('processed_iris.csv', index=False)
-print("\n✅ Data Pipeline Complete! Processed data saved as 'processed_iris.csv'")
-OUTPUT:
+print("\n✅ Data Pipeline Complete! Processed data saved as 'processed_iris.csv''')
+
+Output:
