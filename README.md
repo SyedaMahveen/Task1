@@ -32,7 +32,8 @@ print(df_scaled.head())
 df_scaled.to_csv('processed_iris.csv', index=False)
 print("\n✅ Data Pipeline Complete! Processed data saved as 'processed_iris.csv''')
 
-Output:
+OUTPUT
+
 🚀 Starting Data Pipeline...
 ✅ Raw Data Loaded!
    sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)  target
